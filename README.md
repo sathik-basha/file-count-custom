@@ -2,13 +2,10 @@
 
 Get your files size & counts in directory with specific extension.
 
----
-
 ## Install
 
 `npm install file-count-custom `
 
----
 
 ## Usage
 
