@@ -29,7 +29,7 @@ fileCount.prototype.count = function() {
   };
   walk.walkSync(this.path, options);
   this.size = fileSize(this.size).human();
-  return { cnt: this.fileCnt, size: this.size };
+  return { count: this.fileCnt, size: this.size };
 }
 
 module.exports = fileCount;
