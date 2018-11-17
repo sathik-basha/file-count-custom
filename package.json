@@ -19,5 +19,13 @@
   "dependencies": {
     "file-size": "^1.0.0",
     "walk": "^2.3.13"
-  }
+  },
+  "keywords": [
+    "file-count",
+    "file-size",
+    "count",
+    "size",
+    "count-extension-files",
+    "extension"
+  ]
 }
